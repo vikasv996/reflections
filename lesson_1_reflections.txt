@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+I have used FC command in order to see the bug that i have somehow added to the file while making changes to the file.
+This command helps me alot while checking the big file.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+If i am making the changes in the file periodically and have history for that to see what are the changes, 
+i can go back anytime i want to check the previous work and compare where i did it wrong. So, if i have the
+history, i can keep track of the file and as a programmer, its a good practice to switch back to the code
+which was working better than the updated version.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs does?
+
+Pros: If we are creating commit manually, we can be sure that when the perfect time to commit is.
+Cons: If the commits are autmatically saved, then we dont have control over i.e. if we thinks that commit is
+nexessary, it wont happen, until the version such as Google docs or Dropbox decides to do it.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+I know that saving multiple files in one commit, saves lot of time and it is less annoying than saving each
+file separately. But why they use different approaches, i dont know about that.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log is used to display all the commits of the particular repository and
+git diff is used to find the difference between the two commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+If i am using version control such as Git, so i can freely do changes in my code and after some changes,
+i can commit them to save my previous versions and if i ran into a problem or might introduced a bug
+i can restore to that change where i introduced the bug. In short, Git is awesome!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Yeah, this is good! I am really enjoying working with git and now that i have my workspace setup,
+i will use this for all of my programming exercises and organize the code in an efficient way.
+
