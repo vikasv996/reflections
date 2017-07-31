@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The meaning of initialize is nothing but we are creating a repository with git init
+and if we want to add a brand new repository we have to use git init.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+Staging area is the intermediate state btween the working directory and repository.
+If we create a repo and there are files that we want to commit the, first the files are added to the
+staging area i.e, any number of files we want to commit via git add <file_name>.
+Then after that when we hit git commit, the files which are in the staging area, will be committed. For ex,
+If there is one file -> one, if there is two files -> two. So, this is how the staging area works!
