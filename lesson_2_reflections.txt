@@ -11,3 +11,8 @@ If we create a repo and there are files that we want to commit the, first the fi
 staging area i.e, any number of files we want to commit via git add <file_name>.
 Then after that when we hit git commit, the files which are in the staging area, will be committed. For ex,
 If there is one file -> one, if there is two files -> two. So, this is how the staging area works!
+
+How do the diagrams help you visualize the branch structure?
+
+By visualizing the branch structure, we can better understand the reachability of all the commits made
+to the particular branches and also we can be aware of the unreachable commits from any of the branches.
