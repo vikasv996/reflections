@@ -16,3 +16,12 @@ How do the diagrams help you visualize the branch structure?
 
 By visualizing the branch structure, we can better understand the reachability of all the commits made
 to the particular branches and also we can be aware of the unreachable commits from any of the branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+I dont know, i cant merge the branches because it says "Your branch is ahead of 'origin/master' by 1 commit".
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is good in the cases where any two users have not changed similar lines of code, and if we
+try to do so we'll get an error and we have to do manual merging.
