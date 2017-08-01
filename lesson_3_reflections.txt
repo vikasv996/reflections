@@ -25,4 +25,9 @@ Describe the differences between forks, clones, and branches. When would you use
  edit the same file and commit those changes, the final commit will be stored in GitHub only
  not in one's personal computer and since the last state of remote is unknown then we cannot
  merge the remote and local commits.
+
+ How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+ - I think, to make collaboration more easier, both should work hand-on-hand. 
+ And if we are using eiher of it, GitHub would be more easier as compared to Git.
  
