@@ -18,3 +18,11 @@ Describe the differences between forks, clones, and branches. When would you use
  label also, is desrcibed as a series of commits, as the main parent.
  - Clone is a functionality to copy the repository from GitHub to the local computer.
  - Fork is a process of cloning one's repository to our account in GitHub only.
+
+ What is the benefit of having a copy of the last known state of the remote stored locally?
+
+ If the copy of the remote state is not present locally, then if two users simultaneously
+ edit the same file and commit those changes, the final commit will be stored in GitHub only
+ not in one's personal computer and since the last state of remote is unknown then we cannot
+ merge the remote and local commits.
+ 
