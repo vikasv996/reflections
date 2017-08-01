@@ -3,3 +3,11 @@ When would you want to use a remote repository rather than keeping all your work
 - There are many reasons for creating a remote repository, whenever possible along with working local in our PC.
 If we are using remote repository, then irrespective of wherever we are, we can access the files via any computer.
 Since it is stored in the cloud.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with 
+your remote repository?
+
+- If every time we make a commit either small or containing more logical files, and if Git will push the
+changes everytime we make a commit, then the number of commits will be very large. Since, no matter what 
+how big or small commit is it will be automatically pushed. So, due to this, the changes should be done
+manually.
