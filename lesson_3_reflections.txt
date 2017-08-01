@@ -11,3 +11,10 @@ your remote repository?
 changes everytime we make a commit, then the number of commits will be very large. Since, no matter what 
 how big or small commit is it will be automatically pushed. So, due to this, the changes should be done
 manually.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+ - If we create a repository either in git or GitHub, it will contain one master branch. Branch, known as 
+ label also, is desrcibed as a series of commits, as the main parent.
+ - Clone is a functionality to copy the repository from GitHub to the local computer.
+ - Fork is a process of cloning one's repository to our account in GitHub only.
