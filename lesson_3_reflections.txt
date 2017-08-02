@@ -30,4 +30,12 @@ Describe the differences between forks, clones, and branches. When would you use
 
  - I think, to make collaboration more easier, both should work hand-on-hand. 
  And if we are using eiher of it, GitHub would be more easier as compared to Git.
+
+ When would you want to make changes in a separate branch rather than directly in master? 
+ What benefits does each approach have?
+
+ - If we are making a change which is small and the change is the type of change which is 
+ temporary and after serving it's purpose it can no longer be useful. So, this type of change
+ should be made by creating a new branch other than master and hence in scenarios like this,
+ different branch is helpful.
  
